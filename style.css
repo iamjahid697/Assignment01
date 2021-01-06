@@ -11,10 +11,25 @@ body{
 h1{
     font-size: 50px;
 }
+.h1-intro{
+    color: #363958;
+}
+.h1-intro2{
+    color: #FF8367;
+}
 .half-width img{
     width: 100%;
 }
 section{
     height: 500px;
     padding-bottom: 200px;
+}
+.button-link{
+    text-decoration: none;
+    background-color:#FF8063;
+    padding: 9px 15px;
+    color: white;
+    border-radius: 4px;
+    font-weight: 700;
+    font-style: normal;
 }
