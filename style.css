@@ -53,3 +53,27 @@ section{
     box-sizing: 100% 80%;
     background-color:#F8F9FC;
 }
+
+footer {
+    text-align: center;
+    font-weight: 700;
+    font-size: small;
+    
+}
+.image-size{
+    width: 25px;
+    height: 25px;
+    padding: 5px;
+}
+.top-bar{
+    text-decoration: none;
+    display:flex;
+    list-style: none;
+
+}
+.top-bar li a{
+    padding:5px 5px;
+    margin: 10px;
+    background-color:white;
+    text-decoration: none;
+}
